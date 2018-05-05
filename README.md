@@ -1,9 +1,10 @@
 # edu
 自身が実施してきた、プログラミングなどの講座で使用したリソースなど
 
-# Minecraft
-Minecraft Education Editionを活用したプログラミング学習の実践
-プログラミングの導入として活用。MakeCode版とPython版の2種あり（内容は一緒）。
+# Minecraft Education Editionを活用したプログラミング学習の実践
+Minecraft Education Editionをプログラミングの導入として活用。  
+実践内容についてはMicrosoft Educator Communityにて共有しています。  
+MakeCode版とPython版の2パターンあります。各リンク先を参考にしてください。  
 
 ## Python版: https://education.microsoft.com/Story/Lesson?token=2Qz5g  　
 
