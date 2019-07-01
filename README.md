@@ -30,7 +30,7 @@ https://youtu.be/OC696NjMqpg
 Microsoft Educator Communityにて共有(ログインしているときのみ見れます)  
 https://education.microsoft.com/Story/Tutorial?token=Jl34B
 
-# 自身の発展動画など
+# 自身の発表動画など
 PyCon JP 2017：早稲田大学グローバルソフトウェアエンジニアリング研究所 トークセッション  
 https://youtu.be/keFUXwmSjac
 
